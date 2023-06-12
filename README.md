@@ -5,8 +5,8 @@
 - 📫 Feel free to reach out to me through the following channels:
 
 Email: mataemilia2609@gmail.com
-LinkedIn: [Your LinkedIn Profile URL]
-GitHub: [Your GitHub Profile URL]
+LinkedIn: linkedin.com/in/emilia-mata-14a2401b8
+GitHub: git@github.com:emata10/emata10.git
 - Feel free to reach out to me through the following channels:
 
 <!---
