@@ -7,7 +7,7 @@
 Email: mataemilia2609@gmail.com
 LinkedIn: linkedin.com/in/emilia-mata-14a2401b8
 GitHub: git@github.com:emata10/emata10.git
-- Feel free to reach out to me through the following channels:
+
 
 <!---
 emata10/emata10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
